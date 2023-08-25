@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Edmilson Oliveira</h1>
+<h1 align="center">Hi 👋 I'm Edmilson</h1>
 <h3 align="center">
 I'm student of Data Science and Physics, with a strong interest in Math and Algorithms. 
 </h3>
@@ -58,10 +58,12 @@ I'm student of Data Science and Physics, with a strong interest in Math and Algo
     <img src="https://komarev.com/ghpvc/?username=onedmilson&label=Profile%20views&color=0e75b6&style=flat" alt="onedmilson" />
 </p>
 
-<table>
-    <tr>
-        <td valign="top"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onedmilson&show_icons=true&locale=en&layout=compact" alt="onedmilson" /></td>
-        <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=onedmilson&show_icons=true&locale=en" alt="onedmilson" /></td>
-    </tr>
-</table>
+<a href="https://github.com/onedmilson">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=onedmilson&show_icons=true&count_private=true&theme=dark&hide_border=true&border_radius=7">
+</a>
+
+<a href="https://github.com/onedmilson">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedmilson&layout=compact&count_private=true&theme=dark&hide_border=true&border_radius=7">
+</a>
+
 
