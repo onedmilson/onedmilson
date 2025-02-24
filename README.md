@@ -1,4 +1,4 @@
-### Hi there 👋, I am Edmilson! 📈🤖
+### Hi there 👋, I'm Edmilson! 📈🤖
 
 Data Scientist | Machine Learning Engineer
 
